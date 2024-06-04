@@ -1,5 +1,8 @@
 body {
     background-color: #070F2B;
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -14,4 +17,8 @@ h1 {
 
 section {
     background-color: #535C91;
+}
+
+footer {
+    background-color: #9290C3;
 }
